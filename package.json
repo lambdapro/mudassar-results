@@ -1,0 +1,11 @@
+{
+  "name": "mudassar-results",
+  "version": "1.0.0",
+  "description": "This package will help to fetch the results for any of your builds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mudassar Syed",
+  "license": "ISC"
+}
